@@ -1,5 +1,6 @@
 Vkmartinez95© License Version 1.0
 =================================
+(<a href="v.martinez@bp2l.co">v.martinez@bp2l.co<a>)
 
 1. Definitions
 --------------
@@ -440,5 +441,5 @@ Exhibit C - "Incompatible With Secondary Licenses" Notice
 ---------------------------------------------------------
 
   This Source Code Form is "Incompatible With Secondary Licenses", as
-  defined by the Vkmartinez95© License Version 1.0
+  defined by the Vkmartinez95© License Version 1.0.
 
