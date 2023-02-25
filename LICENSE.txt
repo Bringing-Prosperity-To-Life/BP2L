@@ -1,6 +1,6 @@
 Vkmartinez95© License Version 1.0
 =================================
-(<a href="v.martinez@bp2l.co">v.martinez@bp2l.co</a>)
+( For questions, comments or concerns...  email v.martinez@bp2l.co )
 
 1. Definitions
 --------------
@@ -386,7 +386,7 @@ Permissions to use, and the limitations of use, of this software and
 associated documentation files (the "Covered Software" as described in
 the Source Code Form in Section 1. Definitions) is outlined in it’s entirety
 in the Source Code Form. The Source Code Form can be found at:
-  “ https://gitlab.com/Vkmartinez95/bp2lco/-/edit/main/LICENSE “.
+  “ https://github.com/Bringing-Prosperity-To-Life/BP2L/blob/main/LICENSE.txt “.
 
 The above Copyright Notice and the below Permissions Notice shall be included
 in all proportions in all Covered Software.
@@ -403,7 +403,7 @@ VENUS’©️, ‘775-46-VENUS’©️, ‘bp2l’©️, ‘bp2l.co’©️, ‘
 IN THE SOURCE CODE FORM IN SECTION 6. DICSCLAIMER OF WARRANTY. LIABILITY IS
 COVERED IN THE SOURCE CODE FORM IN SECTION 7. LIMITATION OF LIABILITY. THE
 SOURCE CODE FORM CAN BE FOUND AT:
-  “ https://gitlab.com/Vkmartinez95/bp2lco/-/edit/main/LICENSE “.
+  “ https://github.com/Bringing-Prosperity-To-Life/BP2L/blob/main/LICENSE.txt “.
 
 
 Exhibit A – Further Applicable Information and Citation
@@ -428,7 +428,7 @@ Exhibit B - Source Code Form License Notice
   This Source Code Form is subject to the terms of the Vkmartinez95© License 
   Version 1.0. If a copy of the VKML was not distributed with this file, You 
   can obtain one at:
-    “ https://gitlab.com/Vkmartinez95/bp2lco/-/edit/main/LICENSE “.
+    “ https://github.com/Bringing-Prosperity-To-Life/BP2L/blob/main/LICENSE.txt “.
 
 If it is not possible or desirable to put the notice in a particular
 file, then You may include the notice in a location (such as a LICENSE
