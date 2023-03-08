@@ -1,0 +1,19 @@
+.colorslist * {
+    color: #000000;BLACK:0 !important;
+    color: #ffffff;WHITE:1 !important;
+    color: #999999;LIGHTGREY:3 !important;
+    color: #00ffff;NEONTURQUOISE:4 !important;
+    color: #0000ff;BLUE:5 !important;
+    color: #ff0095;HOTPINK:6 !important;
+    color: #920162;DARKPURPLE:7 !important;
+    color: #ff0000;BRIGHTRED:8 !important;
+    color: #e1ff00;BRIGHTYELLOW:9 !important;
+    color: #00ff1a;BRIGHTGREEN:10 !important;
+    color: #ff9100;BRIGHTORANGE:11 !important;
+    color: #065916;DARKGREEN:12 !important;
+    color: #182b9b;ANOTHERBLUE:13 !important;
+    color: #f39d89;SKINCOLOR:14 !important;
+    color: #fe79ff;LIGHTPINK:15 !important;
+    color: #a0522d;SIENNA:16 !important;
+    color: #8b4513;SADDLEBROWN:17 !important;
+}
