@@ -1,8 +1,11 @@
-# Copyright Notice
+
+# Copyright & Permissions Notices BP2L©️
+
+## Copyright Notice
 
 ----------------
 
-# Copyright ©️ 2023 “Vkmartinez95”©️
+### Copyright ©️ 2023 “Vkmartinez95”©️
 
 Permissions to use, and the limitations of use, of this software and associated
 documentation files (the "Covered Software" as described in the Source Code Form
