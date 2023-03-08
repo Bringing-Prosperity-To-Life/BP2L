@@ -1,6 +1,7 @@
- Bringing Prosperity To Life© ( BP2L© )
 
- # This is the personal base setup of Venus Katelin Martinez© for an HTML Document. ( contact anytime at v.martinez@bp2l.co )
+ #  Bringing Prosperity To Life© ( BP2L© ) 
+ 
+ #  This is the personal base setup of Venus Katelin Martinez© for an HTML Document. ( contact anytime at v.martinez@bp2l.co )
 
    As with most HTML Documents, I start with...
 
