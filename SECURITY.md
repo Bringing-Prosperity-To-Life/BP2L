@@ -24,22 +24,23 @@ up on all this tech stuff, I would much appreciate it! Contact Details Above!
 (Under "## Reporting a Vulnerability")
 
 
-Copyright Notice
+### Copyright Notice
 
 ----------------
 
-Copyright ©️ 2023 “Vkmartinez95”©️
+#### Copyright ©️ 2023 “Vkmartinez95”©️
 
 Permissions to use, and the limitations of use, of this software and
 associated documentation files (the "Covered Software" as described in
 the Source Code Form in Section 1. Definitions) is outlined in it’s entirety
 in the Source Code Form. The Source Code Form can be found at:
+
   “ https://github.com/Bringing-Prosperity-To-Life/BP2L/blob/main/LICENSE.txt “.
 
 The above Copyright Notice and the below Permissions Notice shall be included
 in all proportions in all Covered Software.
 
-Permissions Notice
+### Permissions Notice
 
 ------------------
 
@@ -53,4 +54,5 @@ VENUS’©️, ‘775-46-VENUS’©️, ‘bp2l’©️, ‘bp2l.co’©️, ‘
 IN THE SOURCE CODE FORM IN SECTION 6. DICSCLAIMER OF WARRANTY. LIABILITY IS
 COVERED IN THE SOURCE CODE FORM IN SECTION 7. LIMITATION OF LIABILITY. THE
 SOURCE CODE FORM CAN BE FOUND AT:
+
   “ https://github.com/Bringing-Prosperity-To-Life/BP2L/blob/main/LICENSE.txt “.
