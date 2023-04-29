@@ -1,5 +1,5 @@
 
-# Bringing Prosperity To Life© ( BP2L© ) / Vkmartinez95© Security Policy
+# Bringing Prosperity To Life LLC ( BP2L© ) / Vkmartinez95© Security Policy
 
 Version 1.0
 
@@ -15,8 +15,8 @@ at current date (02/23/23) is at Version 1.0.
 
 ## Reporting a Vulnerability
 
-You may report any vulnerabilities to "bp2l@vkmartinez95.com"© or by texting me
-at "(775) 46-VENUS"© { "(775) 468-3687" }.
+You may report any vulnerabilities to "event@bp2l.co" or by texting me
+at "(424) 427-7948" { "(424) HAPPY4U" }.
 
 I am fairly new to this soI don't exactly know what vulnerabilites to look for
 or expect. If anyone could educate me and / or otherwise help me in catching
