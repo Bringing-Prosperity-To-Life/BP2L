@@ -1,7 +1,7 @@
 
-# ReadMe Bringing Prosperity To LifeⒸ
+# ReadMe Bringing Prosperity To Life LLC
 
-The code made by Venus Katelin MartinezⒸ for the business labeled Bringing Prosperity To LifeⒸ. Any questions about legal topics can generally be covered by the Vkmartinez95Ⓒ  License V. 1.0.  (As of 02/22/2023) (<a href="v.martinez@bp2l.co">v.martinez@bp2l.co</a>)
+The code made by Venus Katelin Martinez for the business labeled Bringing Prosperity To Life LLC. Any questions about legal topics can generally be covered by the Vkmartinez95  License V. 1.0.  (As of 02/22/2023) (<a href="v.martinez@bp2l.co">v.martinez@bp2l.co</a>)
 
 Copyright Notice
 
