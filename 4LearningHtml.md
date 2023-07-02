@@ -98,10 +98,10 @@ I hope this helps some people to learn HTML at least a little bit!
 non-current, tangible, intangible, operating or non-operating, non-
 exclusive to profited income), non-exclusive license:"
 
-### Copyright © 2023 Vkmartinez95©
+## Copyright © 2023 Vkmartinez95©
 
-### <em>This Copyright Notice is different from other Copyright notices with other material made by me, because this is one material with a little more leniency towards those who are trying to learn how to code. </em>
+#### <em>This Copyright Notice is different from other Copyright notices with other material made by me, because this is one material with a little more leniency towards those who are trying to learn how to code. </em>
 
-### <em> Unlike the other material made under this company, this Copyrighted (©) Material is Free for anyone to use, up unto the point in which this code is used to make a profit, then the royalties paid will be in percentage of how big the contribution is in relation to the size the product or software (or other sellable item that needs this code now or in the future), but no less than 5% royalties-paid to Venus Katelin Martinez©.</em>
+#### <em> Unlike the other material made under this company, this Copyrighted (©) Material is Free for anyone to use, up unto the point in which this code is used to make a profit, then the royalties paid will be in percentage of how big the contribution is in relation to the size the product or software (or other sellable item that needs this code now or in the future), but no less than 5% royalties-paid to Venus Katelin Martinez©.</em>
 
 * <em>In essence, this is meant to be a free learning template, but will require payout if profit is made from the use of this code.</em>
