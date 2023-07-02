@@ -1,7 +1,7 @@
 
  #  Bringing Prosperity To Life© ( BP2L© ) 
  
- ###  This is the personal base setup of Venus Katelin Martinez© for an HTML Document. ( contact anytime at v.martinez@bp2l.co )
+ ###  This is the personal base setup of Venus Katelin Martinez© for an HTML Document. ( contact anytime at venus.k.martinez@outlook.com )
 
    As with most HTML Documents, I start with...
 
@@ -88,6 +88,23 @@ When it comes to the Footer that's the best place in my opinion to play around (
    </footer>
   </html>
 ```
+Upon putting it all together the code will look like the following:
+```
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> Your Title Here </title>
+    <meta char="utf-8"/>
+    <link rel="stylesheet" href="\\yourStylesheet.css"/>
+    <img src="https://a-webpage.com/image-path/image.jpg"
+  </head>
+  <body>
+  </body>
+  <footer>
+  </footer>
+</html>
+```
+
 And then of course, you want to be sure that you end the page with the closing tag for the HTML.
 I hope this helps some people to learn HTML at least a little bit! 
 **I do NOT** claim to be an expert or anywhere even close. I do NOT offer any warranty nor shall I be held accountable for any damages, losses or otherwise negative circumstance that may occur as a result of using this code in any form. If you would like to know anything about responsibilities of "You" (the User, Reader, and / or Modifier of this product), "Me" (the "Original Owner"), or any other involved party, and other such legal topics, you may refer to the Vkmartinez95© License V. 1.0. (or the most up-to-date version), excluding (where applicable) the part in which it says :
