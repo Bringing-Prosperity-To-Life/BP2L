@@ -5,8 +5,6 @@ The code made by Venus Katelin Martinez for the business labeled Bringing Prospe
 
 ## Copyright Notice
 
-----------------
-
 Copyright ©️ 2023 “Vkmartinez95”©️
 
 Permissions to use, and the limitations of use, of this software and
@@ -18,9 +16,7 @@ in the Source Code Form. The Source Code Form can be found at:
 The above Copyright Notice and the below Permissions Notice shall be included
 in all proportions in all Covered Software.
 
-## Permissions Notice
-
-------------------
+## Permissions Notice 
 
 THE COVERED SOFTWARE IS PROVIDED AS DESCRIBED IN IT’S ENTIRETY IN THE SOURCE
 CODE FORM (SFC). THE OWNER “‘Venus Katelin Martinez’©️, ‘Venus K. Martinez’©️,
