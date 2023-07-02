@@ -15,8 +15,8 @@ at current date (02/23/23) is at Version 1.0.
 
 ## Reporting a Vulnerability
 
-You may report any vulnerabilities to "event@bp2l.co" or by texting me
-at "(424) 427-7948" { "(424) HAPPY4U" }.
+You may report any vulnerabilities to "prosperitytolife@gmail.com" or by texting me
+at "(775) 468-3687" { "(775) 46-VENUS" }.
 
 I am fairly new to this soI don't exactly know what vulnerabilites to look for
 or expect. If anyone could educate me and / or otherwise help me in catching
