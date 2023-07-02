@@ -22,7 +22,7 @@
 
   `<meta charset="utf-8">`
 
-## <em>  At this point you now have options as to how to build your Webpage of either a Stylesheet seperate from the html document or you can use the "style" tag.</em>
+#### <em>  At this point you now have options as to how to build your Webpage of either a Stylesheet seperate from the html document or you can use the "style" tag.</em>
 
   `<link rel="stylesheet" href="\\yourStyleSheet.css">`
 
