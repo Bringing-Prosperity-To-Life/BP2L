@@ -21,7 +21,7 @@ at "(775) 468-3687" { "(775) 46-VENUS" }.
 I am fairly new to this soI don't exactly know what vulnerabilites to look for
 or expect. If anyone could educate me and / or otherwise help me in catching
 up on all this tech stuff, I would much appreciate it! Contact Details Above!
-(Under "## Reporting a Vulnerability")
+(Under "Reporting a Vulnerability")
 
 
 ### Copyright Notice
